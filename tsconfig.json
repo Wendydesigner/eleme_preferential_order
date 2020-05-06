@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "allowJs": true,
+        "sourceMap": true,
+        "noImplicitAny": false,
+        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
+        "module": "commonjs",
+        "target": "es5",
+        "lib": ["es5", "es6", "dom"],
+        "jsx": "react",
+        "baseUrl": "./",
+        "types": [
+            "react",
+            "react-dom",
+            "antd"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
