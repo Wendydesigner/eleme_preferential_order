@@ -8,20 +8,20 @@
 
 
 
-*** 界面交互：
+### 界面交互：
 <img src="./example.png" width="200px">
 
-*** 下单结果展示：
+### 下单结果展示：
 <img src="./example2.png" width="200px">
 
-*** 安装包：
+### 安装包：
 yarn install
-*** 启动后端服务：
+### 启动后端服务：
 yarn run server 
-*** 启动前端服务：
+### 启动前端服务：
 yarn run start
 
 
-*** 待完成的工作：
+### 待完成的工作：
 - 优化编译速度
 - 部署服务到github
