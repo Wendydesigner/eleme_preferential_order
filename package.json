@@ -5,8 +5,7 @@
     "main": "index.js",
     "scripts": {
         "start": "./node_modules/.bin/webpack-dev-server --open --config webpack.config.js",
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "server": "python index.py"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "饿了么",
